@@ -1,6 +1,15 @@
-Desafio Alura Curso de HTML e CSS: responsividade com mobile-first
-![image](https://github.com/user-attachments/assets/296763ef-c06f-4f72-aaa9-d8be065b08c2)
-![image](https://github.com/user-attachments/assets/677e4328-a024-45d6-9c29-501d4c572175)
-![image](https://github.com/user-attachments/assets/dd3af6d8-ce2f-4385-b347-1719f3ce618b)
 
-# aluraBooks
+<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
+
+<hr>
+
+<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
+<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+
+## Tecnologias
+* HTML
+* CSS
+* SwiperJS
+
+## Screenshots
+![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
